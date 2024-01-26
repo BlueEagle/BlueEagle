@@ -1,7 +1,7 @@
 ### Hello.
 
 You should know...
-- 🔭 I’m currently working on super secret stuff @ MX!
+- 🔭 I’m currently working on super secret stuff @ MX.com!
 - 🌱 Learning rust right now.
 - 💬 Ask me about application security!
 - 📫 How to reach me: admin@ballou.rocks / @BlueEagle403
